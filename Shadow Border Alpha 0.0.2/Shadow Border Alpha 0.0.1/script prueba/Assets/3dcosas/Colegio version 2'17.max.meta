@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 1b26dd6e67728e04c9663656411dd50b
+timeCreated: 1521635584
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Biblioteca
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Box005
+    100012: Box006
+    100014: Box007
+    100016: Box008
+    100018: Box009
+    100020: Box010
+    100022: Box011
+    100024: Box012
+    100026: Box013
+    100028: Box014
+    100030: Box015
+    100032: Box016
+    100034: Box017
+    100036: Box018
+    100038: Box019
+    100040: Box020
+    100042: Box021
+    100044: Box022
+    100046: Box023
+    100048: Box024
+    100050: Box025
+    100052: Box026
+    100054: Box027
+    100056: Box028
+    100058: Box029
+    100060: Box030
+    100062: Box031
+    100064: Box032
+    100066: Box033
+    100068: Box034
+    100070: Box035
+    100072: Box036
+    100074: Box037
+    100076: Box038
+    100078: Box039
+    100080: Caseta conserje
+    100082: Clases colegio segunda planta
+    100084: Colegio
+    100086: //RootNode
+    100088: GeoSphere003
+    100090: GeoSphere004
+    100092: GeoSphere005
+    100094: GeoSphere006
+    100096: Glorieta
+    100098: Object001
+    100100: Plane001
+    100102: 'Primera plnata '
+    100104: Suelo
+    100106: Suelo biblio
+    100108: Suelo primera planta
+    100110: Valla
+    100112: Valla 1
+    100114: Valla 2
+    100116: Vallas y glorieta
+    400000: Biblioteca
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Box005
+    400012: Box006
+    400014: Box007
+    400016: Box008
+    400018: Box009
+    400020: Box010
+    400022: Box011
+    400024: Box012
+    400026: Box013
+    400028: Box014
+    400030: Box015
+    400032: Box016
+    400034: Box017
+    400036: Box018
+    400038: Box019
+    400040: Box020
+    400042: Box021
+    400044: Box022
+    400046: Box023
+    400048: Box024
+    400050: Box025
+    400052: Box026
+    400054: Box027
+    400056: Box028
+    400058: Box029
+    400060: Box030
+    400062: Box031
+    400064: Box032
+    400066: Box033
+    400068: Box034
+    400070: Box035
+    400072: Box036
+    400074: Box037
+    400076: Box038
+    400078: Box039
+    400080: Caseta conserje
+    400082: Clases colegio segunda planta
+    400084: Colegio
+    400086: //RootNode
+    400088: GeoSphere003
+    400090: GeoSphere004
+    400092: GeoSphere005
+    400094: GeoSphere006
+    400096: Glorieta
+    400098: Object001
+    400100: Plane001
+    400102: 'Primera plnata '
+    400104: Suelo
+    400106: Suelo biblio
+    400108: Suelo primera planta
+    400110: Valla
+    400112: Valla 1
+    400114: Valla 2
+    400116: Vallas y glorieta
+    2100000: No Name
+    2100002: 'Material #2'
+    2100004: 'Material #3'
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: Box018
+    2300036: Box019
+    2300038: Box020
+    2300040: Box021
+    2300042: Box022
+    2300044: Box023
+    2300046: Box024
+    2300048: Box025
+    2300050: Box026
+    2300052: Box027
+    2300054: Box028
+    2300056: Box029
+    2300058: Box030
+    2300060: Box031
+    2300062: Box032
+    2300064: Box033
+    2300066: Box034
+    2300068: Box035
+    2300070: Box036
+    2300072: Box037
+    2300074: Box038
+    2300076: Box039
+    2300078: Caseta conserje
+    2300080: Colegio
+    2300082: GeoSphere003
+    2300084: GeoSphere004
+    2300086: GeoSphere005
+    2300088: GeoSphere006
+    2300090: Glorieta
+    2300092: Object001
+    2300094: Plane001
+    2300096: Suelo
+    2300098: Suelo biblio
+    2300100: Suelo primera planta
+    2300102: Valla
+    2300104: Valla 1
+    2300106: Valla 2
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: Box018
+    3300036: Box019
+    3300038: Box020
+    3300040: Box021
+    3300042: Box022
+    3300044: Box023
+    3300046: Box024
+    3300048: Box025
+    3300050: Box026
+    3300052: Box027
+    3300054: Box028
+    3300056: Box029
+    3300058: Box030
+    3300060: Box031
+    3300062: Box032
+    3300064: Box033
+    3300066: Box034
+    3300068: Box035
+    3300070: Box036
+    3300072: Box037
+    3300074: Box038
+    3300076: Box039
+    3300078: Caseta conserje
+    3300080: Colegio
+    3300082: GeoSphere003
+    3300084: GeoSphere004
+    3300086: GeoSphere005
+    3300088: GeoSphere006
+    3300090: Glorieta
+    3300092: Object001
+    3300094: Plane001
+    3300096: Suelo
+    3300098: Suelo biblio
+    3300100: Suelo primera planta
+    3300102: Valla
+    3300104: Valla 1
+    3300106: Valla 2
+    4300000: Colegio
+    4300002: Suelo
+    4300004: Caseta conserje
+    4300006: Box007
+    4300008: Box001
+    4300010: Box002
+    4300012: Box003
+    4300014: Box004
+    4300016: Box005
+    4300018: Box006
+    4300020: Box013
+    4300022: Box008
+    4300024: Box009
+    4300026: Box010
+    4300028: Box011
+    4300030: Box012
+    4300032: Suelo biblio
+    4300034: Valla
+    4300036: Valla
+    4300038: Valla
+    4300040: Glorieta
+    4300042: GeoSphere005
+    4300044: GeoSphere004
+    4300046: GeoSphere003
+    4300048: Box015
+    4300050: Box028
+    4300052: Box014
+    4300054: Box016
+    4300056: Box017
+    4300058: Box018
+    4300060: Box019
+    4300062: Box020
+    4300064: Box021
+    4300066: Box022
+    4300068: Box027
+    4300070: Box026
+    4300072: Box025
+    4300074: Box029
+    4300076: Plane001
+    4300078: Box023
+    4300080: Box024
+    4300082: Suelo primera planta
+    4300084: Object001
+    4300086: Box030
+    4300088: Box031
+    4300090: Box032
+    4300092: Box033
+    4300094: Box034
+    4300096: Box035
+    4300098: GeoSphere006
+    4300100: Box036
+    4300102: Box037
+    4300104: Box038
+    4300106: Box039
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

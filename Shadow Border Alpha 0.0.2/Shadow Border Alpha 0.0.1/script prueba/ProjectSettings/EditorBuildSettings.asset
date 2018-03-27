@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/New Scene.unity
+    guid: 15c3cf371e7638e43b2412300579c14d
+  - enabled: 1
+    path: Assets/Escenas/1.unity
+    guid: 528bbce7a1092314aa7b3fa2d3518b59
+  - enabled: 1
+    path: Assets/Escenas/2.unity
+    guid: fdf3d67830ca94f4897cddb0e29e8dd5
+  - enabled: 1
+    path: Assets/Escenas/Inicio.unity
+    guid: 918ef3aea93544246b24d6109691d2fe
+  - enabled: 1
+    path: Assets/Escenas/Inicio2.unity
+    guid: 03ffc7d1682d80349909d5cc69d08f06
+  - enabled: 1
+    path: Assets/Escenas/Mov1.unity
+    guid: 4fba68a6f80586b40a2c92f38a9fb6d4
+  - enabled: 1
+    path: Assets/Escenas/Inicio3.unity
+    guid: 17511e6faf2caa044a64b2beddb502cb
+  - enabled: 1
+    path: Assets/Escenas/Inicio4.unity
+    guid: 084f0ee0b6aa740469f08031c787b672
+  - enabled: 1
+    path: Assets/Escenas/Mov2.unity
+    guid: 229df5f810b620d46bf8fe2319aadacc
+  - enabled: 1
+    path: Assets/Escenas/Mov3.unity
+    guid: 2208d73019704ed41840a382670427a3
+  - enabled: 1
+    path: Assets/Escenas/Mov4.unity
+    guid: 0cf1b3abfad19f545bd555a24646c291
+  - enabled: 1
+    path: Assets/Escenas/Mov5.unity
+    guid: e8616b2c795319447bde767e55d2ae8f
+  - enabled: 1
+    path: Assets/Escenas/Mov6.unity
+    guid: 03e7bef2ae2676449a61ed4c66059dc4
+  - enabled: 1
+    path: Assets/Escenas/Inicio5.unity
+    guid: a957c628819665749aaaadb77f644f03
+  - enabled: 1
+    path: Assets/Escenas/Mov7.unity
+    guid: 97a4abe1ddb7141439ab65cdb8b8cc87
+  - enabled: 1
+    path: Assets/Escenas/Inicio6.unity
+    guid: e634f5917873ed445a841a7a9ef6a826
+  - enabled: 1
+    path: Assets/Escenas/Mov8.unity
+    guid: 4266912c3e97d954ab22249ac8b6ae24
+  - enabled: 1
+    path: Assets/Escenas/Mov9.unity
+    guid: 782adbb8950dc42419c5b8776b7f159b
+  - enabled: 1
+    path: Assets/Escenas/Mov10.unity
+    guid: 8bf92d7b302442244b0162f50f7625ee
+  - enabled: 1
+    path: Assets/Escenas/Mov11.unity
+    guid: 2cb26a275ca34794a8b35957376d3d4e
+  - enabled: 1
+    path: Assets/Escenas/Inicio8.unity
+    guid: bd6b820031c71a34aa6e6f299847a246
+  - enabled: 1
+    path: Assets/Escenas/Mov12.unity
+    guid: 21250abbf96e0a647adccfe82cdf4ffb
+  - enabled: 1
+    path: Assets/Escenas/Inicio9.unity
+    guid: 392fd5899c457ba4e83881700234642c
+  - enabled: 1
+    path: Assets/Escenas/Mov13.unity
+    guid: 812f7fb80cf3d894694e7e82f46754e4
+  - enabled: 1
+    path: Assets/Escenas/Inicio10.unity
+    guid: 2631af3dc0315ff45bff0cb235d8f947
+  - enabled: 1
+    path: Assets/Escenas/Mov14.unity
+    guid: ee89d579b5e9c004fb65be3104f90972
+  - enabled: 1
+    path: Assets/Escenas/Inicio11.unity
+    guid: 88d227c843709c14d98760876606e01f
+  - enabled: 1
+    path: Assets/Escenas/Inicio12.unity
+    guid: b16d019cdd20376459a981835e2e5e9d
+  - enabled: 1
+    path: Assets/Escenas/Inicio7.unity
+    guid: caf8ab1421af72244a5286ac1825c2f3
