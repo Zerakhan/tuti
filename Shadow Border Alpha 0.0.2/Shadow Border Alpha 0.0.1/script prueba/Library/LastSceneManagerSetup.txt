@@ -1,10 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/2.unity
+- path: Assets/Escenas/Mov7.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Escenas/Mov8.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/Escenas/Mov7.unity
-  isLoaded: 0
-  isActive: 0
