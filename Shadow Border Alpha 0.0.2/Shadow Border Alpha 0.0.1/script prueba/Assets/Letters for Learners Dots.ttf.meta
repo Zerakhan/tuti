@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b2381f1521c3efb46a30f048555d8801
+timeCreated: 1527792871
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Letters for Learners Dots
+  fontNames:
+  - Letters for Learners Dots
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

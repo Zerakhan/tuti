@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/Mov7.unity
+- path: Assets/Escenas/2.unity
   isLoaded: 1
   isActive: 1
