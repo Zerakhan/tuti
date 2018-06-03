@@ -1,8 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Escenas/New Scene.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/Escenas/1.unity
+=======
+- path: Assets/Escenas/2.unity
+>>>>>>> 74ae56ed7b31198c0c554bedfc7b19556df81ccc
   isLoaded: 1
   isActive: 1
 - path: Assets/Escenas/Inicio.unity
