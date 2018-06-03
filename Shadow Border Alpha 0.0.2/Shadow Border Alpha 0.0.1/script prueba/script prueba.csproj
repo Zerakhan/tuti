@@ -349,12 +349,12 @@
     <Compile Include="Assets\script\Cambios de escena porque soy muy vago para hacer el string\MovCambioI.cs" />
     <Compile Include="Assets\script\Camkill.cs" />
     <Compile Include="Assets\script\director.cs" />
-    <Compile Include="Assets\script\niebla\GlobalFog.cs" />
     <Compile Include="Assets\script\Patrol.cs" />
     <Compile Include="Assets\script\Patrol2.cs" />
     <Compile Include="Assets\script\PostEffectsBase.cs" />
     <Compile Include="Assets\script\PruebaAVer.cs" />
     <Compile Include="Assets\script\ResetPorCaida.cs" />
+    <Compile Include="Assets\script\Vida.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
