@@ -259,7 +259,6 @@
     <Compile Include="Assets\script\Cambios de escena porque soy muy vago para hacer el string\MovCambioI.cs" />
     <Compile Include="Assets\script\Camkill.cs" />
     <Compile Include="Assets\script\director.cs" />
-    <Compile Include="Assets\script\niebla\GlobalFog.cs" />
     <Compile Include="Assets\script\Patrol.cs" />
     <Compile Include="Assets\script\Patrol2.cs" />
     <Compile Include="Assets\script\PostEffectsBase.cs" />
@@ -272,7 +271,6 @@
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-    <None Include="Assets\script\niebla\GlobalFog.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
