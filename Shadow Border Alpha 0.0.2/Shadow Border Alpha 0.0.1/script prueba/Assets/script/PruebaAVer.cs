@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class PruebaAVer : MonoBehaviour {
     public GameObject IMG1;
-    public Animator Anim;
+    public GameObject Puente;
     private void Start()
     {
         IMG1.SetActive(false);
-        Anim = GetComponent<Animator>();
+        Puente.SetActive(false);
     }
 
     void OnTriggerEnter(Collider other)
@@ -24,7 +24,7 @@ public class PruebaAVer : MonoBehaviour {
     {
         if (Input.GetKey(KeyCode.R))
         {
-            //Aqui se supone que hace cosas..., Need halp. Anim.SetTrigger (XAnimación);(Creo...)
+            Puente.SetActive(true);
         }
     }
     void OnTriggerExit(Collider other)

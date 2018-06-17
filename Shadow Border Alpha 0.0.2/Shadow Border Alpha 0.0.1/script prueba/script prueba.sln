@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "script prueba", "script prueba.csproj", "{7BCD12C8-9C29-64BA-16AE-CA5EBCFC5B9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "script prueba.Plugins", "script prueba.Plugins.csproj", "{50A555E4-D018-6D57-A391-87EA51D2560E}"

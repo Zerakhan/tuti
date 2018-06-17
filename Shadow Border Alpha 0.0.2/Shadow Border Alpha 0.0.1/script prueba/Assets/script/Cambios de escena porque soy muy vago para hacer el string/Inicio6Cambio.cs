@@ -48,7 +48,7 @@ public class Inicio6Cambio : MonoBehaviour
         }
         if (paso == 5)
         {
-            SceneManager.LoadScene("Mov8");
+            SceneManager.LoadScene("Finale");
         }
     }
 }

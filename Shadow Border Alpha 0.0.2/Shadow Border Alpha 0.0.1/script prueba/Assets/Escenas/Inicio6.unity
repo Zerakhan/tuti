@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -762,14 +762,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 833228325}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f1206cacc9e19540974c95ff6945854, type: 3}
+  m_Script: {fileID: 11500000, guid: 7223366e567ec55448bd4371a9966aec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   paso: 0
   PasoPerClick: 1
-  IMG1: {fileID: 1010826070}
-  IMG2: {fileID: 703428250}
-  IMG3: {fileID: 1971983237}
+  IMG1: {fileID: 703428250}
+  IMG2: {fileID: 1971983237}
+  IMG3: {fileID: 1010826070}
   IMG4: {fileID: 312717129}
 --- !u!114 &833228328
 MonoBehaviour:
@@ -811,7 +811,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 833228327}
-        m_MethodName: pasalo
+        m_MethodName: Pasalo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
