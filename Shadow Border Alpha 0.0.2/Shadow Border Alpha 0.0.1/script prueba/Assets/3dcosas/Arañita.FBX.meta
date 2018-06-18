@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 011cf46257bd2c043a99aee3bcac1ea8
-timeCreated: 1529108188
+timeCreated: 1529333002
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -62,8 +62,6 @@ ModelImporter:
     100108: Bone019
     100110: Bone020
     100112: Cuerpo
-    100114: Plane001
-    100116: Plane002
     400000: ' 1'
     400002: //RootNode
     400004: Bip001 Footsteps
@@ -121,18 +119,8 @@ ModelImporter:
     400108: Bone019
     400110: Bone020
     400112: Cuerpo
-    400114: Plane001
-    400116: Plane002
-    2100000: 'Material #30'
-    2100002: 'Material #29'
-    2100004: 'Material #31'
-    2300000: Plane001
-    2300002: Plane002
-    3300000: Plane001
-    3300002: Plane002
-    4300000: Plane001
-    4300002: Plane002
-    4300004: Cuerpo
+    2100000: 'Material #31'
+    4300000: Cuerpo
     7400000: Take 001
     9500000: //RootNode
     13700000: Cuerpo
